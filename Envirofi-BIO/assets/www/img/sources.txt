@@ -1,0 +1,4 @@
+tree-icon.png: http://openclipart.org/detail/9471/rpg-map-symbols:-tree-by-nicubunu-9471
+marker.png: http://openclipart.org/detail/169058/red-marker-by-mightyman
+photo_black2.png: Sencha Touch 2 default theme
+compass1.png: Sencha Touch 2 default theme

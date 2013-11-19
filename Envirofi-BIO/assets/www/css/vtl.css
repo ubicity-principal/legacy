@@ -1,0 +1,301 @@
+.keycell {
+	color:#333333;
+	background-color: #CCCCCC;
+	font-weight: bold;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	width: 45%;	
+}
+.valuecell {
+	color:#000000;
+	background-color: #FFFFFF;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	width: 45%;	
+}
+
+.imagecell {
+	text-align: center;
+	vertical-align: middle;
+	height: 120px;
+	background-color: #FFFFFF;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	width: 90%;	
+}
+
+div.vtlheading {
+	text-align: center;
+	font-weight: bold;
+	font-size: 28px;
+}
+
+.rotated-image--90 {
+	-webkit-transform: rotate(90deg);
+	/*width: 100px; */
+}
+
+
+
+div.olControlZoom {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+div.olControlZoom a {
+    display: block;
+    margin: 1px;
+    padding: 0;
+    color: white;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    height: 32px;
+    width: 32px;
+    line-height: 28px;
+    text-shadow: 0 0 3px rgba(0,0,0,0.8);
+    background: #666666; /* fallback for IE - IE6 requires background shorthand*/
+    background: rgba(0, 0, 0, 0.3);
+    filter: alpha(opacity=60);
+}
+a.olControlZoomIn {
+    border-radius: 4px 4px 0 0;
+}
+a.olControlZoomOut {
+    border-radius: 0 0 4px 4px;
+}
+div.olControlZoom a:hover {
+    background: #444444; /* fallback for IE */
+    background: rgba(0, 0, 0, 0.5);
+    filter: alpha(opacity=80);
+}
+
+.centerButtonControlPanel {
+	right:  5px;
+	bottom: 5px;
+	height: 40px;
+	width:  40px;
+}
+
+.centerButtonItemInactive {
+	display:block;
+	width:  35px;
+	height: 35px;
+	margin: 5px;
+	background-image: url(../img/compass1.png)
+	/* background-color: #000; */
+}
+.newObservationButtonControlPanel {
+	top:  5px;
+	right: 5px;
+	height: 40px;
+	width:  40px;
+}
+
+.newObservationButtonItemInactive {
+	display:block;
+	width:  45px;
+	height: 45px;
+	margin: 5px;
+	background-image: url(../img/crosshair_40x40.png)
+	/* background-color: #000; */
+}
+
+.fixMarkerPanel {
+	 left:50%; 
+	 top: 50%; 
+	 height: 40px;
+	 width:  40px;
+	 margin-left: -20px; 
+	 margin-top: -20px;
+}
+
+.fixmarkerItemInactive {
+	 display:block;
+	 left:50%; 
+	 top: 50%; 
+	 height: 40px;
+	 width:  40px;
+	 background-image: url(../img/crosshair_40x40.png)
+}
+
+.bboxButtonControlPanel {
+	left:  5px;
+	bottom: 5px;
+	height: 40px;
+	width:  40px;
+}
+
+.bboxButtonItemInactive {
+	display:block;
+	width:  32px;
+	height: 32px;
+	background-image: url(../img/BoundingBox32.png)
+	/* background-color: #000; */
+}
+
+.bboxPanel {
+	display: block;
+	left:  30px;
+	bottom: 45px;
+	right: 30px;
+	top: 30px;
+	border: thick solid DarkTurquoise;
+	opacity: 0.8;
+}
+
+.outerAreaTop {
+	display: block;
+	left:  0px;
+	top: 0px;
+	right: 0px;
+	height: 30px;
+	background-color: gray;
+	opacity: 0.5;
+}
+
+.outerAreaLeft {
+	display: block;
+	left:  0px;
+	top: 30px;
+	bottom: 45px;
+	width: 30px;
+	background-color: gray;
+	opacity: 0.5;
+}
+
+.outerAreaRight {
+	display: block;
+	top: 30px;
+	bottom: 45px;
+	right: 0px;
+	width: 30px;
+	background-color: gray;
+	opacity: 0.5;
+}
+
+.outerAreaBottom {
+	display: block;
+	left:  0px;
+	bottom: 0px;
+	right: 0px;
+	height: 45px;
+	background-color: gray;
+	opacity: 0.5;
+}
+
+.memoryPanel {
+	display: block;
+	left:  0px;
+	bottom: 20px;
+	right: 0px;
+	height: 20px;
+	background-color: white;
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 12px;
+	opacity: 0.9;
+}
+
+.cancelButtonControlPanel {
+	left:  0px;
+	bottom: 0px;
+	right: 50%;
+	height: 20px;
+	background-color: gray;
+	color: white;	
+	border: thin solid white;
+	opacity: 0.9;
+}
+
+.cancelButtonItemInactive {
+	display:block;
+	height: 20px;
+	left:  0px;
+	bottom: 0px;
+	background-color: gray;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	opacity: 0.9;
+}
+
+.saveButtonControlPanel {
+	left:  50%;
+	bottom: 0px;
+	right: 0px;
+	height: 20px;
+	background-color: gray;
+	color: white;	
+	border: thin solid white;
+	opacity: 0.9;
+}
+
+.saveButtonItemInactive {
+	display:block;
+	height: 20px;
+	bottom: 0px;
+	background-color: gray;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	opacity: 0.9;
+}
+
+.saveButtonItemActive {
+	display:block;
+	height: 20px;
+	bottom: 0px;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 14px;
+	opacity: 0.9;
+	background-color: red;
+}
+
+.downloadPanel {
+	display: block;
+	left:  0px;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: #333339;
+	color: #fff;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 40px;
+	font-weight:bold;
+	opacity: 0.85;
+}
+
+.downloadPanelStatus {
+	display:block;
+	position:relative;
+	left: 50%;
+	top: 20%;
+	width: 200px;
+	height: 200px;
+	margin-left:-100px;
+	margin-height:-100px;
+	background-color:#eee;
+	opacity:0.45;
+	border-radius: 8px;
+	text-align:center;
+	font-size:65px;
+	line-height:200px;
+	color:#000;
+}
+
+input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+}

@@ -1,0 +1,366 @@
+{
+    "_id": "vocabulary.trees.de",
+   "type": "vocabulary",
+   "content": [
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6203",
+           "vernacularName": "Rote Hartriegel",
+           "scientificName": "Cornus sanguinea",
+           "uri": "http://www.yso.fi/onto/kassu/k48048"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6203",
+           "vernacularName": "Dirndlstrauch ",
+           "scientificName": "Cornus mas",
+           "uri": "http://www.yso.fi/onto/kassu/k10595"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k77414",
+           "vernacularName": "Geweihbaum",
+           "scientificName": "Gymnocladus dioicus",
+           "uri": "http://www.yso.fi/onto/kassu/k35425"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k353",
+           "vernacularName": "Schnurbaum",
+           "scientificName": "Sophora japonica",
+           "uri": "http://www.yso.fi/onto/kassu/k46569"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8766",
+           "vernacularName": "Lederh\u00FClsenbaum",
+           "scientificName": "Gleditsia triacanthos",
+           "uri": "http://www.yso.fi/onto/kassu/k27017"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k32108",
+           "vernacularName": "Judasbaum",
+           "scientificName": "Cercis siliquastrum",
+           "uri": "http://www.yso.fi/onto/kassu/k7079"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6167",
+           "vernacularName": "Schwarzer Maulbeerbaum",
+           "scientificName": "Morus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k35011"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5386",
+           "vernacularName": "G\u00F6tterbaum",
+           "scientificName": "Ailanthus altissima",
+           "uri": "http://www.yso.fi/onto/kassu/k51605"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Kirschpflaume",
+           "scientificName": "Prunus cerasifera",
+           "uri": "http://www.yso.fi/onto/kassu/k54857"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Vogelkirsche",
+           "scientificName": "Prunus avium",
+           "uri": "http://www.yso.fi/onto/kassu/k67023"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Traubenkirsche",
+           "scientificName": "Prunus padus",
+           "uri": "http://www.yso.fi/onto/kassu/k88086"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "Eberesche",
+           "scientificName": "Sorbus aucuparia subsp. aucuparia",
+           "uri": "http://www.yso.fi/onto/kassu/k40606"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "\u00D6sterreichische Mehlbeere",
+           "scientificName": "Sorbus austriaca",
+           "uri": "http://www.yso.fi/onto/kassu/k41070"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "Gew\u00F6hnliche Mehlbeere",
+           "scientificName": "Sorbus aria",
+           "uri": "http://www.yso.fi/onto/kassu/k13100"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k284",
+           "vernacularName": "Hahnendorn",
+           "scientificName": "Crataegus x lavallei",
+           "uri": "http://www.yso.fi/onto/kassu/k90227"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k284",
+           "vernacularName": "Wei\u00DFdorn",
+           "scientificName": "Crataegus laevigata",
+           "uri": "http://www.yso.fi/onto/kassu/k49605"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5823",
+           "vernacularName": "Zierapfel",
+           "scientificName": "Malus Purpurea-Ryhm\u00E4",
+           "uri": "http://www.yso.fi/onto/kassu/k26427"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k21992",
+           "vernacularName": "Gew\u00F6hnliche Zwergmispel[",
+           "scientificName": "Cotoneaster integerrimus",
+           "uri": "http://www.yso.fi/onto/kassu/k59989"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k21992",
+           "vernacularName": "Filzige Zwergmispel",
+           "scientificName": "Cotoneaster tomentosus",
+           "uri": "http://www.yso.fi/onto/kassu/k90771"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k15663",
+           "vernacularName": "\u00D6lweide",
+           "scientificName": "Elaeagnus angustifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k43130"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6293",
+           "vernacularName": "Baumwacholder",
+           "scientificName": "Juniperus virginiana",
+           "uri": "http://www.yso.fi/onto/kassu/k20162"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8318",
+           "vernacularName": "Ilex",
+           "scientificName": "Ilex aquifolium",
+           "uri": "http://www.yso.fi/onto/kassu/k2088"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k13016",
+           "vernacularName": "Bergulme",
+           "scientificName": "Ulmus glabra",
+           "uri": "http://www.yso.fi/onto/kassu/k6486"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8065",
+           "vernacularName": "Blauglockenbaum",
+           "scientificName": "Paulownia tomentosa",
+           "uri": "http://www.yso.fi/onto/kassu/k62171"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3405",
+           "vernacularName": "Trompetenbaum",
+           "scientificName": "Catalpa bignonioides",
+           "uri": "http://www.yso.fi/onto/kassu/k3403"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Stieleiche",
+           "scientificName": "Quercus robur",
+           "uri": "http://www.yso.fi/onto/kassu/k27283"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Traubeneiche",
+           "scientificName": "Quercus petraea",
+           "uri": "http://www.yso.fi/onto/kassu/k17842"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14166",
+           "vernacularName": "Rotbuche",
+           "scientificName": "Fagus sylvatica",
+           "uri": "http://www.yso.fi/onto/kassu/k68985"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k29762",
+           "vernacularName": "Westlicher Z\u00FCrgelbaum",
+           "scientificName": "Celtis occidentalis",
+           "uri": "http://www.yso.fi/onto/kassu/k48240"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k29762",
+           "vernacularName": "S\u00FCdlicher Z\u00FCrgelbaum",
+           "scientificName": "Celtis australis",
+           "uri": "http://www.yso.fi/onto/kassu/k54030"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k28033",
+           "vernacularName": "Walnussbaum",
+           "scientificName": "Juglans regia",
+           "uri": "http://www.yso.fi/onto/kassu/k4581"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Blumenesche",
+           "scientificName": "Fraxinus ornus",
+           "uri": "http://www.yso.fi/onto/kassu/k69156"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Quril Esche",
+           "scientificName": "Fraxinus angustifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k8640"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Gemeine Esche",
+           "scientificName": "Fraxinus excelsior",
+           "uri": "http://www.yso.fi/onto/kassu/k34147"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14643",
+           "vernacularName": "Gemeine Fichte",
+           "scientificName": "Picea abies",
+           "uri": "http://www.yso.fi/onto/kassu/k78587"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14643",
+           "vernacularName": "Stechfichte",
+           "scientificName": "Picea pungens",
+           "uri": "http://www.yso.fi/onto/kassu/k20336"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14643",
+           "vernacularName": "Blaufichte",
+           "scientificName": "Picea pungens 'Glauca'",
+           "uri": "http://www.yso.fi/onto/kassu/k20324"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9843",
+           "vernacularName": "Wei\u00DFtanne",
+           "scientificName": "Abies alba",
+           "uri": "http://www.yso.fi/onto/kassu/k40994"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "\u00D6sterreichische Schwarzkiefer",
+           "scientificName": "Pinus nigra subsp. nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k15243"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Kiefer",
+           "scientificName": "Pinus sylvestris",
+           "uri": "http://www.yso.fi/onto/kassu/k41750"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Schlangenhautkiefer",
+           "scientificName": "Pinus heldreichii",
+           "uri": "http://www.yso.fi/onto/kassu/k4701"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Schwarzf\u00F6hre",
+           "scientificName": "Pinus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k27785"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Schwarzkiefer",
+           "scientificName": "Pinus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k27785"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k32192",
+           "vernacularName": "K\u00FCstendouglasie",
+           "scientificName": "Pseudotsuga menziesii",
+           "uri": "http://www.yso.fi/onto/kassu/k11626"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14721",
+           "vernacularName": "Europ\u00E4ische L\u00E4rche",
+           "scientificName": "Larix decidua",
+           "uri": "http://www.yso.fi/onto/kassu/k9568"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k7007",
+           "vernacularName": "Heimische Eibe",
+           "scientificName": "Taxus baccata",
+           "uri": "http://www.yso.fi/onto/kassu/k37308"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6131",
+           "vernacularName": "Baummagnolie",
+           "scientificName": "Magnolia kobus",
+           "uri": "http://www.yso.fi/onto/kassu/k68665"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k31186",
+           "vernacularName": "Tulpenbaum",
+           "scientificName": "Liriodendron tulipifera",
+           "uri": "http://www.yso.fi/onto/kassu/k71267"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Gro\u00DFbl\u00E4ttrige Weide",
+           "scientificName": "Salix appendiculata",
+           "uri": "http://www.yso.fi/onto/kassu/k13566"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Silberweide",
+           "scientificName": "Salix alba",
+           "uri": "http://www.yso.fi/onto/kassu/k9060"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Palmkatzerl",
+           "scientificName": "Salix caprea",
+           "uri": "http://www.yso.fi/onto/kassu/k5481"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Purpur Weide",
+           "scientificName": "Salix purpurea",
+           "uri": "http://www.yso.fi/onto/kassu/k12444"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Birkenpappel",
+           "scientificName": "Populus simonii",
+           "uri": "http://www.yso.fi/onto/kassu/k20680"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Silberpappel",
+           "scientificName": "Populus alba",
+           "uri": "http://www.yso.fi/onto/kassu/k10854"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Zitterpappel",
+           "scientificName": "Populus tremula",
+           "uri": "http://www.yso.fi/onto/kassu/k63653"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Pyramidenpappel",
+           "scientificName": "Populus nigra 'Italica'",
+           "uri": "http://www.yso.fi/onto/kassu/k18751"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Schwarzpappel",
+           "scientificName": "Populus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k44470"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k31190",
+           "vernacularName": "Amberbaum",
+           "scientificName": "Liquidambar styraciflua",
+           "uri": "http://www.yso.fi/onto/kassu/k31188"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k11124",
+           "vernacularName": "F\u00E4cherblattbaum",
+           "scientificName": "Ginkgo biloba",
+           "uri": "http://www.yso.fi/onto/kassu/k8550"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k59390",
+           "vernacularName": "Ahornbl\u00E4ttrige Platane",
+           "scientificName": "Platanus x acerifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k90377"
+       }
+   ]   
+}

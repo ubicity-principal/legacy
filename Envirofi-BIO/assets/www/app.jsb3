@@ -1,0 +1,124 @@
+{
+	"projectname": "VTL",
+	"licenseText": "Copyright(c) 2013 AIT",
+	"builds": [{
+			"name": "Application - Production",
+			"target": "app-all.js",
+			"compress": false,
+
+		"files": [
+			{
+				"path": "app/controller/",
+				"name": "Main.js"
+			},
+			{
+				"path": "app/model/",
+				"name": "commontree.js"
+			},
+			{
+				"path": "app/model/",
+				"name": "areaofinterest.js"
+			},
+			{
+				"path": "app/model/",
+				"name": "observationdetails.js"
+			},
+			{
+				"path": "app/store/",
+				"name": "eventstore.js"
+			},
+			{
+				"path": "app/store/",
+				"name": "currenteventsstore.js"
+			},
+			{
+				"path": "app/store/",
+				"name": "commontreestore.js"
+			},
+			{
+				"path": "app/store/",
+				"name": "areaofintereststore.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "TreeDetailTable.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "TreeDetail.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "TreeList.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "TreeMap.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "NewTree.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "Filter.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "Panel.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "MainNavigation.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "CreateTagView.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "Settings.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "AreaOfInterestDetail.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "AreaOfInterestList.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "AreaOfInterestNavigation.js"
+			},
+			  {
+			 "path": "app/view/",
+			 "name": "Login.js"
+			 },
+			  {
+			 "path": "app/view/",
+			 "name": "Disclaimer.js"
+			 },
+			 {
+			 "path": "app/view/",
+			 "name": "Registration.js"
+			 },
+			 {
+			 "path": "app/view/",
+			 "name": "Loader.js"
+			 },
+			{
+				"path": "app/view/",
+				"name": "MainMenu.js"
+			},
+			{
+				"path": "app/view/",
+				"name": "Main.js"
+			},			
+			{
+				"path": "",
+				"name": "app.js"
+			}
+		]
+	}]
+}

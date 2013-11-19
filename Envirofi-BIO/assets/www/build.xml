@@ -1,0 +1,112 @@
+<project>
+	<description>
+        Ant build script file for the mdaf tree ptototype
+    </description>
+	<target name="lang_en">
+		<copy todir="app">
+			<fileset dir="app_meta"/>
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/vtl_meta.js" tofile="js/vtl.js">
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/cloudStorage_meta.js" tofile="js/cloudStorage.js">
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+	</target>
+	
+	<target name="lang_de">
+		<copy todir="app">
+			<fileset dir="app_meta"/>
+			<filterset>
+				<filtersfile file="lang_de.properties"/>
+				<filtersfile file="app.properties"/>
+							</filterset>
+		</copy>
+		<copy file="js/vtl_meta.js" tofile="js/vtl.js">
+			<filterset>
+				<filtersfile file="lang_de.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/cloudStorage_meta.js" tofile="js/cloudStorage.js">
+			<filterset>
+				<filtersfile file="lang_de.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+	</target>
+	
+	<target name="lang_it">
+		<copy todir="app">
+			<fileset dir="app_meta"/>
+			<filterset>
+				<filtersfile file="lang_it.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/vtl_meta.js" tofile="js/vtl.js">
+			<filterset>
+				<filtersfile file="lang_it.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/cloudStorage_meta.js" tofile="js/cloudStorage.js">
+			<filterset>
+				<filtersfile file="lang_it.properties"/>
+				<filtersfile file="app.properties"/>
+			</filterset>
+		</copy>
+	</target>
+
+		<target name="test">
+		<copy todir="app">
+			<fileset dir="app_meta"/>
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app_test.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/vtl_meta.js" tofile="js/vtl.js">
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app_test.properties"/>
+			</filterset>
+		</copy>
+		<copy file="js/cloudStorage_meta.js" tofile="js/cloudStorage.js">
+			<filterset>
+				<filtersfile file="lang_en.properties"/>
+				<filtersfile file="app_test.properties"/>
+			</filterset>
+		</copy>
+	</target>
+	
+
+	<target name="sencha"> 
+    	<exec dir="." executable="cmd" osfamily="Windows">
+    		<arg value="/c sencha build -p app.jsb3 -d ."/>
+    	</exec>
+    	<exec dir="." executable="/usr/local/lib/SenchaSDK/sencha" osfamily="unix">
+    		<arg value="build"/>
+    		<arg value="-p app.jsb3"/>
+    		<arg value="-d ."/>
+		<arg value="-debug=true"/>
+    	</exec>
+    </target>
+
+	<target name="clean">
+		<delete dir="app"/>
+		<delete file="js/vtl.js"/>
+		<delete file="js/cloudStorage.js"/>
+			</target>
+
+</project>

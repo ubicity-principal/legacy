@@ -1,0 +1,774 @@
+{
+    "_id": "vocabulary.trees.it",
+   "type": "vocabulary",
+   "content": [
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k50122",
+           "vernacularName": "Melia",
+           "scientificName": "Melia azedarach",
+           "uri": "http://www.yso.fi/onto/kassu/k78663"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6203",
+           "vernacularName": "Corniolo",
+           "scientificName": "Cornus mas",
+           "uri": "http://www.yso.fi/onto/kassu/k10595"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k15591",
+           "vernacularName": "Acacia di Costantinopoli",
+           "scientificName": "Albizia julibrissin",
+           "uri": "http://www.yso.fi/onto/kassu/k46894"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k15591",
+           "vernacularName": "Gaggia arborea",
+           "scientificName": "Albizia julibrissin",
+           "uri": "http://www.yso.fi/onto/kassu/k46894"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k988",
+           "vernacularName": "Mimosa",
+           "scientificName": "Acacia dealbata",
+           "uri": "http://www.yso.fi/onto/kassu/k85122"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k25441",
+           "vernacularName": "Robinia",
+           "scientificName": "Robinia pseudoacacia",
+           "uri": "http://www.yso.fi/onto/kassu/k26243"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k353",
+           "vernacularName": "Sofora",
+           "scientificName": "Sophora japonica",
+           "uri": "http://www.yso.fi/onto/kassu/k46569"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k18977",
+           "vernacularName": "Maggiociondolo",
+           "scientificName": "Laburnum anagyroides",
+           "uri": "http://www.yso.fi/onto/kassu/k25168"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8766",
+           "vernacularName": "Spino di Giuda",
+           "scientificName": "Gleditsia triacanthos",
+           "uri": "http://www.yso.fi/onto/kassu/k27017"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k81293",
+           "vernacularName": "Carrubo",
+           "scientificName": "Ceratonia siliqua",
+           "uri": "http://www.yso.fi/onto/kassu/k7262"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k32108",
+           "vernacularName": "Albero di Giuda",
+           "scientificName": "Cercis siliquastrum",
+           "uri": "http://www.yso.fi/onto/kassu/k7079"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6167",
+           "vernacularName": "Gelso bianco",
+           "scientificName": "Morus alba",
+           "uri": "http://www.yso.fi/onto/kassu/k90718"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6167",
+           "vernacularName": "Gelso nero",
+           "scientificName": "Morus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k35011"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10071",
+           "vernacularName": "Fico",
+           "scientificName": "Ficus carica",
+           "uri": "http://www.yso.fi/onto/kassu/k36726"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k75167",
+           "vernacularName": "Gelso da carta",
+           "scientificName": "Broussonetia papyrifera",
+           "uri": "http://www.yso.fi/onto/kassu/k34468"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5386",
+           "vernacularName": "Ailanto",
+           "scientificName": "Ailanthus altissima",
+           "uri": "http://www.yso.fi/onto/kassu/k51605"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k24942",
+           "vernacularName": "Oleandro",
+           "scientificName": "Nerium oleander",
+           "uri": "http://www.yso.fi/onto/kassu/k72440"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Mirabolano porporino",
+           "scientificName": "Prunus cerasifera",
+           "uri": "http://www.yso.fi/onto/kassu/k54857"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Amolo",
+           "scientificName": "Prunus cerasifera",
+           "uri": "http://www.yso.fi/onto/kassu/k54857"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Lauroceraso",
+           "scientificName": "Prunus laurocerasus",
+           "uri": "http://www.yso.fi/onto/kassu/k41123"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Albicocco",
+           "scientificName": "Prunus americana",
+           "uri": "http://www.yso.fi/onto/kassu/k57922"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Ciliegio",
+           "scientificName": "Prunus avium",
+           "uri": "http://www.yso.fi/onto/kassu/k67023"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Susino",
+           "scientificName": "Prunus domestica",
+           "uri": "http://www.yso.fi/onto/kassu/k4964"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Albicocco",
+           "scientificName": "Prunus armeniaca",
+           "uri": "http://www.yso.fi/onto/kassu/k54940"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Pesco",
+           "scientificName": "Prunus persica",
+           "uri": "http://www.yso.fi/onto/kassu/k39851"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4938",
+           "vernacularName": "Mandorlo",
+           "scientificName": "Prunus dulcis",
+           "uri": "http://www.yso.fi/onto/kassu/k4977"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "Sorbo domestico",
+           "scientificName": "Sorbus domestica",
+           "uri": "http://www.yso.fi/onto/kassu/k61147"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "Ciavardello",
+           "scientificName": "Sorbus torminalis",
+           "uri": "http://www.yso.fi/onto/kassu/k18640"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k10666",
+           "vernacularName": "Sorbo degli uccellatori",
+           "scientificName": "Sorbus aucuparia",
+           "uri": "http://www.yso.fi/onto/kassu/k13089"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k284",
+           "vernacularName": "Biancospino comune",
+           "scientificName": "Crataegus monogyna",
+           "uri": "http://www.yso.fi/onto/kassu/k55859"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k284",
+           "vernacularName": "Azeruolo",
+           "scientificName": "Crataegus azarolus",
+           "uri": "http://www.yso.fi/onto/kassu/k10406"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k284",
+           "vernacularName": "Biancospino sperone di gallo",
+           "scientificName": "Crataegus crus-galli",
+           "uri": "http://www.yso.fi/onto/kassu/k74045"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5823",
+           "vernacularName": "Melo",
+           "scientificName": "Malus domestica",
+           "uri": "http://www.yso.fi/onto/kassu/k65192"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5823",
+           "vernacularName": "Melo da fiore",
+           "scientificName": "Malus floribunda",
+           "uri": "http://www.yso.fi/onto/kassu/k46700"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4042",
+           "vernacularName": "Perastro",
+           "scientificName": "Pyrus pyraster",
+           "uri": "http://www.yso.fi/onto/kassu/k45971"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4042",
+           "vernacularName": "Pero comune",
+           "scientificName": "Pyrus communis",
+           "uri": "http://www.yso.fi/onto/kassu/k14956"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k30020",
+           "vernacularName": "Nespolo",
+           "scientificName": "Mespilus germanica",
+           "uri": "http://www.yso.fi/onto/kassu/k12364"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k18305",
+           "vernacularName": "Cotogno",
+           "scientificName": "Cydonia oblonga",
+           "uri": "http://www.yso.fi/onto/kassu/k53057"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k63762",
+           "vernacularName": "Nespolo del Giappone",
+           "scientificName": "Eriobotrya japonica",
+           "uri": "http://www.yso.fi/onto/kassu/k25398"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k15663",
+           "vernacularName": "Olivagno",
+           "scientificName": "Elaeagnus angustifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k43130"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k44945",
+           "vernacularName": "Feioia",
+           "scientificName": "Acca sellowiana",
+           "uri": "http://www.yso.fi/onto/kassu/k9242"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k18270",
+           "vernacularName": "Tuia occidentale",
+           "scientificName": "Thuja occidentalis",
+           "uri": "http://www.yso.fi/onto/kassu/k48508"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6293",
+           "vernacularName": "Ginepro comune",
+           "scientificName": "Juniperus communis",
+           "uri": "http://www.yso.fi/onto/kassu/k69777"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k2687",
+           "vernacularName": "Sequoia gigante",
+           "scientificName": "Sequoiadendron giganteum",
+           "uri": "http://www.yso.fi/onto/kassu/k59255"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k54695",
+           "vernacularName": "Sequoia",
+           "scientificName": "Sequoia sempervirens",
+           "uri": "http://www.yso.fi/onto/kassu/k48475"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k86212",
+           "vernacularName": "Metasequoia",
+           "scientificName": "Metasequoia glyptostroboides",
+           "uri": "http://www.yso.fi/onto/kassu/k79156"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k25149",
+           "vernacularName": "Cipresso di Monterey",
+           "scientificName": "Cupressus macrocarpa",
+           "uri": "http://www.yso.fi/onto/kassu/k58251"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k25149",
+           "vernacularName": "Cipresso comune",
+           "scientificName": "Cupressus sempervirens",
+           "uri": "http://www.yso.fi/onto/kassu/k4753"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k25149",
+           "vernacularName": "Cipresso dell\u0027Arizona",
+           "scientificName": "Cupressus arizonica",
+           "uri": "http://www.yso.fi/onto/kassu/k30003"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k36092",
+           "vernacularName": "Cipresso di Leyland",
+           "scientificName": "x Cupressocyparis leylandii",
+           "uri": "http://www.yso.fi/onto/kassu/k11032"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k74510",
+           "vernacularName": "Criptomeria",
+           "scientificName": "Cryptomeria japonica",
+           "uri": "http://www.yso.fi/onto/kassu/k33461"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k30464",
+           "vernacularName": "Libocedro",
+           "scientificName": "Calocedrus decurrens",
+           "uri": "http://www.yso.fi/onto/kassu/k45569"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k68067",
+           "vernacularName": "Cipresso di Lawson",
+           "scientificName": "Chamaecyparis lawsoniana",
+           "uri": "http://www.yso.fi/onto/kassu/k68068"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6950",
+           "vernacularName": "Cipresso calvo",
+           "scientificName": "Taxodium distichum",
+           "uri": "http://www.yso.fi/onto/kassu/k51577"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k4547",
+           "vernacularName": "Tuia orientale",
+           "scientificName": "Platycladus orientalis",
+           "uri": "http://www.yso.fi/onto/kassu/k59118"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k21846",
+           "vernacularName": "Lagerstroemia",
+           "scientificName": "Lagerstroemia indica",
+           "uri": "http://www.yso.fi/onto/kassu/k26487"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k28076",
+           "vernacularName": "Melograno",
+           "scientificName": "Punica granatum",
+           "uri": "http://www.yso.fi/onto/kassu/k75047"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8318",
+           "vernacularName": "Agrifoglio",
+           "scientificName": "Ilex aquifolium",
+           "uri": "http://www.yso.fi/onto/kassu/k2088"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k13016",
+           "vernacularName": "Olmo ciliato",
+           "scientificName": "Ulmus laevis",
+           "uri": "http://www.yso.fi/onto/kassu/k40965"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k13016",
+           "vernacularName": "Olmo siberiano",
+           "scientificName": "Ulmus pumila",
+           "uri": "http://www.yso.fi/onto/kassu/k78793"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k13016",
+           "vernacularName": "Olmo montano",
+           "scientificName": "Ulmus glabra",
+           "uri": "http://www.yso.fi/onto/kassu/k6486"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k363",
+           "vernacularName": "Zelkova",
+           "scientificName": "Zelkova serrata",
+           "uri": "http://www.yso.fi/onto/kassu/k28312"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k363",
+           "vernacularName": "Zelkova a foglie di carpino",
+           "scientificName": "Zelkova carpinifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k22543"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k53161",
+           "vernacularName": "Corbezzolo orientale",
+           "scientificName": "Arbutus andrachne",
+           "uri": "http://www.yso.fi/onto/kassu/k53169"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k53161",
+           "vernacularName": "Corbezzolo",
+           "scientificName": "Arbutus unedo",
+           "uri": "http://www.yso.fi/onto/kassu/k45498"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8065",
+           "vernacularName": "Paulonia",
+           "scientificName": "Paulownia tomentosa",
+           "uri": "http://www.yso.fi/onto/kassu/k62171"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3405",
+           "vernacularName": "Catalpa",
+           "scientificName": "Catalpa bignonioides",
+           "uri": "http://www.yso.fi/onto/kassu/k3403"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Farnia",
+           "scientificName": "Quercus robur",
+           "uri": "http://www.yso.fi/onto/kassu/k27283"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Roverella",
+           "scientificName": "Quercus pubescens",
+           "uri": "http://www.yso.fi/onto/kassu/k80772"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Quercia palustre",
+           "scientificName": "Quercus palustris",
+           "uri": "http://www.yso.fi/onto/kassu/k17857"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Quercia rossa",
+           "scientificName": "Quercus rubra",
+           "uri": "http://www.yso.fi/onto/kassu/k84242"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Rovere",
+           "scientificName": "Quercus petraea",
+           "uri": "http://www.yso.fi/onto/kassu/k17842"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Leccio",
+           "scientificName": "Quercus ilex",
+           "uri": "http://www.yso.fi/onto/kassu/k88984"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Sughera",
+           "scientificName": "Quercus suber",
+           "uri": "http://www.yso.fi/onto/kassu/k24224"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5124",
+           "vernacularName": "Cerro",
+           "scientificName": "Quercus cerris",
+           "uri": "http://www.yso.fi/onto/kassu/k19634"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14166",
+           "vernacularName": "Faggio",
+           "scientificName": "Fagus sylvatica",
+           "uri": "http://www.yso.fi/onto/kassu/k68985"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k52858",
+           "vernacularName": "Castagno",
+           "scientificName": "Castanea sativa",
+           "uri": "http://www.yso.fi/onto/kassu/k52855"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k29762",
+           "vernacularName": "Bagolaro occidentale",
+           "scientificName": "Celtis occidentalis",
+           "uri": "http://www.yso.fi/onto/kassu/k48240"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k29762",
+           "vernacularName": "Bagolaro",
+           "scientificName": "Celtis australis",
+           "uri": "http://www.yso.fi/onto/kassu/k54030"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k28033",
+           "vernacularName": "Noce",
+           "scientificName": "Juglans regia",
+           "uri": "http://www.yso.fi/onto/kassu/k4581"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k28033",
+           "vernacularName": "Noce nero",
+           "scientificName": "Juglans nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k34456"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3794",
+           "vernacularName": "Lillà",
+           "scientificName": "Syringa vulgaris",
+           "uri": "http://www.yso.fi/onto/kassu/k3814"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Orniello",
+           "scientificName": "Fraxinus ornus",
+           "uri": "http://www.yso.fi/onto/kassu/k69156"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Frassino meridionale",
+           "scientificName": "Fraxinus angustifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k8640"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k3244",
+           "vernacularName": "Frassino",
+           "scientificName": "Fraxinus excelsior",
+           "uri": "http://www.yso.fi/onto/kassu/k34147"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k46534",
+           "vernacularName": "Olivo",
+           "scientificName": "Olea europaea",
+           "uri": "http://www.yso.fi/onto/kassu/k31422"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k30008",
+           "vernacularName": "Ligustro lucido",
+           "scientificName": "Ligustrum lucidum",
+           "uri": "http://www.yso.fi/onto/kassu/k32778"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k30008",
+           "vernacularName": "Ligustro giapponese",
+           "scientificName": "Ligustrum japonicum",
+           "uri": "http://www.yso.fi/onto/kassu/k29729"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k36040",
+           "vernacularName": "Fillirea a foglie strette",
+           "scientificName": "Phillyrea angustifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k82454"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k36040",
+           "vernacularName": "Fillirea a foglie larghe",
+           "scientificName": "Phillyrea latifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k52434"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14387",
+           "vernacularName": "Canforo",
+           "scientificName": "Cinnamomum camphora",
+           "uri": "http://www.yso.fi/onto/kassu/k52435"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k8130",
+           "vernacularName": "Alloro",
+           "scientificName": "Laurus nobilis",
+           "uri": "http://www.yso.fi/onto/kassu/k771"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14643",
+           "vernacularName": "Abete rosso",
+           "scientificName": "Picea abies",
+           "uri": "http://www.yso.fi/onto/kassu/k78587"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k14643",
+           "vernacularName": "Abete del Colorado",
+           "scientificName": "Picea pungens",
+           "uri": "http://www.yso.fi/onto/kassu/k20336"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9843",
+           "vernacularName": "Abete bianco",
+           "scientificName": "Abies alba",
+           "uri": "http://www.yso.fi/onto/kassu/k40994"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9843",
+           "vernacularName": "Abete di Spagna",
+           "scientificName": "Abies pinsapo",
+           "uri": "http://www.yso.fi/onto/kassu/k54009"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino d\u0027Aleppo",
+           "scientificName": "Pinus halepensis",
+           "uri": "http://www.yso.fi/onto/kassu/k12212"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino silvestre",
+           "scientificName": "Pinus sylvestris",
+           "uri": "http://www.yso.fi/onto/kassu/k41750"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino domestico",
+           "scientificName": "Pinus pinea",
+           "uri": "http://www.yso.fi/onto/kassu/k71257"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino mugo",
+           "scientificName": "Pinus mugo",
+           "uri": "http://www.yso.fi/onto/kassu/k59464"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino dell\u0027Himalaya",
+           "scientificName": "Pinus wallichiana",
+           "uri": "http://www.yso.fi/onto/kassu/k52646"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino nero",
+           "scientificName": "Pinus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k27785"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k9522",
+           "vernacularName": "Pino strobo",
+           "scientificName": "Pinus strobus",
+           "uri": "http://www.yso.fi/onto/kassu/k89413"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k32192",
+           "vernacularName": "Douglasia",
+           "scientificName": "Pseudotsuga menziesii",
+           "uri": "http://www.yso.fi/onto/kassu/k11626"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12761",
+           "vernacularName": "Cedro del Libano",
+           "scientificName": "Cedrus libani",
+           "uri": "http://www.yso.fi/onto/kassu/k56933"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12761",
+           "vernacularName": "Cedro dell\u0027Himalaya",
+           "scientificName": "Cedrus deodara",
+           "uri": "http://www.yso.fi/onto/kassu/k56926"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12761",
+           "vernacularName": "Cedro dell\u0027Atlante",
+           "scientificName": "Cedrus atlantica",
+           "uri": "http://www.yso.fi/onto/kassu/k84735"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k7007",
+           "vernacularName": "Tasso",
+           "scientificName": "Taxus baccata",
+           "uri": "http://www.yso.fi/onto/kassu/k37308"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6131",
+           "vernacularName": "Magnolia sempreverde",
+           "scientificName": "Magnolia grandiflora",
+           "uri": "http://www.yso.fi/onto/kassu/k90056"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k6131",
+           "vernacularName": "Magnolia soulangeana",
+           "scientificName": "Magnolia Soulangeana-Ryhmä",
+           "uri": "http://www.yso.fi/onto/kassu/k7924"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k31186",
+           "vernacularName": "Albero dei tulipani",
+           "scientificName": "Liriodendron tulipifera",
+           "uri": "http://www.yso.fi/onto/kassu/k71267"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Salice bianco",
+           "scientificName": "Salix alba",
+           "uri": "http://www.yso.fi/onto/kassu/k9060"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Salice piangente",
+           "scientificName": "Salix babylonica",
+           "uri": "http://www.yso.fi/onto/kassu/k52754"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k12446",
+           "vernacularName": "Salice da vimini",
+           "scientificName": "Salix viminalis",
+           "uri": "http://www.yso.fi/onto/kassu/k71262"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Pioppo bianco",
+           "scientificName": "Populus alba",
+           "uri": "http://www.yso.fi/onto/kassu/k10854"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Pioppo grigio",
+           "scientificName": "Populus x canescens",
+           "uri": "http://www.yso.fi/onto/kassu/k18932"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Pioppo cipressino",
+           "scientificName": "Populus nigra \u0027Italica\u0027",
+           "uri": "http://www.yso.fi/onto/kassu/k18751"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k16622",
+           "vernacularName": "Pioppo nero",
+           "scientificName": "Populus nigra",
+           "uri": "http://www.yso.fi/onto/kassu/k44470"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5619",
+           "vernacularName": "Albero di Sant\u0027Andrea",
+           "scientificName": "Diospyros lotus",
+           "uri": "http://www.yso.fi/onto/kassu/k37809"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5619",
+           "vernacularName": "Caco",
+           "scientificName": "Diospyros kaki",
+           "uri": "http://www.yso.fi/onto/kassu/k50701"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k5619",
+           "vernacularName": "Diospero americano",
+           "scientificName": "Diospyros virginiana",
+           "uri": "http://www.yso.fi/onto/kassu/k21607"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k17871",
+           "vernacularName": "Pitosforo",
+           "scientificName": "Pittosporum tobira",
+           "uri": "http://www.yso.fi/onto/kassu/k59149"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k31190",
+           "vernacularName": "Liquidambar",
+           "scientificName": "Liquidambar styraciflua",
+           "uri": "http://www.yso.fi/onto/kassu/k31188"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k48178",
+           "vernacularName": "Bosso comune",
+           "scientificName": "Buxus sempervirens",
+           "uri": "http://www.yso.fi/onto/kassu/k12256"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k11124",
+           "vernacularName": "Ginko",
+           "scientificName": "Ginkgo biloba",
+           "uri": "http://www.yso.fi/onto/kassu/k8550"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k59390",
+           "vernacularName": "Platano orientale",
+           "scientificName": "Platanus orientalis",
+           "uri": "http://www.yso.fi/onto/kassu/k46259"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k59390",
+           "vernacularName": "Platano occidentale",
+           "scientificName": "Platanus occidentalis",
+           "uri": "http://www.yso.fi/onto/kassu/k76739"
+       },
+       {
+           "parent": "http://www.yso.fi/onto/kassu/k59390",
+           "vernacularName": "Platano ibrido",
+           "scientificName": "Platanus x acerifolia",
+           "uri": "http://www.yso.fi/onto/kassu/k90377"
+       }
+   ]
+}

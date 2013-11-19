@@ -1,0 +1,13 @@
+{
+   "_id": "_design/vocabulary",
+   "views": {
+       "vocabularies": {
+           "map": "function(doc){ if(doc.type && doc.type == \"vocabulary\") emit(doc._id, doc); }"
+       }
+   },
+   "lists": {
+       "searchByVernacularName": "function(head,req){ var row=getRow();  var nextRow; var regex = new RegExp(req.query.name,\"i\"); send(req.query.callback + '({\"data\" : ['); while(row) { nextRow=getRow();  if(row.value._id && row.value._id == req.query.vocabularyId) { if(row.value.content) { var c = row.value.content; var previous; for(var i=0; i<c.length; i++) { if (c[i].vernacularName.match(regex)) { if(previous) { send('{\"uri\" : \"'+c[previous].uri+'\", \"label\" : \"'+c[previous].vernacularName+'\", \"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"},'); } previous = i; } } if(previous) { send('{\"uri\" : \"'+c[previous].uri+'\", \"label\" : \"'+c[previous].vernacularName+'\", \"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"}'); }   } } row=nextRow; }  send(']})');  }",
+       "searchByScientificName": "function(head,req){ var row=getRow();  var nextRow; var regex = new RegExp(req.query.name,\"i\"); send(req.query.callback + '({\"data\" : ['); while(row) { nextRow=getRow();  if(row.value._id && row.value._id == req.query.vocabularyId) { if(row.value.content) { var c = row.value.content; var previous; for(var i=0; i<c.length; i++) { if (c[i].scientificName.match(regex)) { if(previous) { send('{\"uri\" : \"'+c[previous].uri+'\", \"label\" : \"'+c[previous].scientificName+'\", \"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"},'); } previous = i; } } if(previous) { send('{\"uri\" : \"'+c[previous].uri+'\", \"label\" : \"'+c[previous].scientificName+'\", \"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"}'); }   } } row=nextRow; }  send(']})');  }",
+       "searchByUri": "function(head,req){ var row=getRow();  var nextRow; send(req.query.callback + '({\"data\" : ['); while(row) { nextRow=getRow();  if(row.value._id && row.value._id == req.query.vocabularyId) { if(row.value.content) { var c = row.value.content; var previous; for(var i=0; i<c.length; i++) { if (c[i].uri == req.query.name) { if(previous) { send('{\"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"},'); } previous = i; } } if(previous) { send('{\"scientificName\" : \"'+c[previous].scientificName+'\", \"vernacularName\" : \"'+c[previous].vernacularName+'\"},'); }   } } row=nextRow; }  send(']})');  }"
+   }
+}
